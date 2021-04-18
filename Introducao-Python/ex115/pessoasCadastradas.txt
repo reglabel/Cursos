@@ -1,0 +1,2 @@
+Luigi;10
+Mario;8
