@@ -1,2 +1,2 @@
-# Estudos
- Códigos de prática geral de programação.
+# Cursos
+ Códigos de prática geral em cursos de programação.
