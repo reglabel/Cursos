@@ -1,2 +1,2 @@
 # Cursos
- Códigos de prática geral em cursos de programação.
+ Códigos de prática de Introdução a Python.
